@@ -1,0 +1,19 @@
+.box {
+    border: 0.5px solid black;
+    box-sizing: border-box;
+    flex: 1;
+    padding: 0;
+  }
+
+  .row{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+  }
+  
+  .gridContainer {
+    display: flex;
+    margin-top: 50px;
+    width: 500px;
+    height: 500px;
+  }
